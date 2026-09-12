@@ -1,0 +1,1001 @@
+name,department,account_status,sharepoint_access,antivirus_status
+Sr. Henrique Rocha,Marketing,Ativo,Owner,Quarentena
+Emilly Melo,RH,Ativo,Visitante,Atualizado
+Luara da Mata,RH,Inativo,Owner,Atualizado
+Dr. Paulo Cavalcanti,TI,Ativo,Owner,Quarentena
+Bianca da Cunha,Vendas,Inativo,Visitante,Atualizado
+Zoe Cunha,Vendas,Inativo,Visitante,Atualizado
+Alana da Luz,Vendas,Ativo,Owner,Atualizado
+Luiz Henrique Costela,Operações,Ativo,Membro,Quarentena
+Srta. Bianca da Mata,TI,Ativo,Membro,Atualizado
+Dr. Luiz Miguel da Cunha,Financeiro,Ativo,Owner,Quarentena
+Giovanna Rodrigues,Marketing,Ativo,Owner,Atualizado
+Davi Lucas Porto,TI,Inativo,Membro,Atualizado
+Nathan Moura,Vendas,Ativo,Membro,Quarentena
+Lara Novais,Marketing,Inativo,Membro,Quarentena
+Luiz Miguel Sá,Marketing,Inativo,Visitante,Quarentena
+Mariana Albuquerque,Marketing,Inativo,Membro,Quarentena
+Hadassa Cunha,TI,Ativo,Owner,Atualizado
+Ana Lívia Ramos,Financeiro,Ativo,Visitante,Quarentena
+Erick Garcia,TI,Ativo,Membro,Quarentena
+Vinícius Garcia,Operações,Ativo,Owner,Atualizado
+Daniel Lima,Operações,Inativo,Membro,Quarentena
+Sarah Rezende,TI,Inativo,Visitante,Atualizado
+Cecília Pinto,Vendas,Ativo,Owner,Atualizado
+Alícia Pimenta,Operações,Ativo,Membro,Quarentena
+Bella da Mata,RH,Ativo,Owner,Quarentena
+Dr. Isaac Mendonça,Vendas,Inativo,Visitante,Atualizado
+Anthony das Neves,RH,Ativo,Visitante,Quarentena
+Emilly Machado,RH,Inativo,Owner,Quarentena
+Maria Luísa Sá,Marketing,Inativo,Visitante,Atualizado
+Dra. Isabella Silveira,TI,Ativo,Visitante,Atualizado
+Theodoro Garcia,Operações,Ativo,Membro,Atualizado
+Marcelo Rocha,Operações,Inativo,Membro,Atualizado
+Cecilia da Rosa,Vendas,Inativo,Visitante,Atualizado
+Augusto Silveira,Financeiro,Ativo,Visitante,Atualizado
+Davi Lucas Lima,Marketing,Ativo,Visitante,Quarentena
+Sr. Calebe Jesus,Operações,Inativo,Visitante,Quarentena
+Enzo da Mota,Vendas,Inativo,Membro,Quarentena
+João Miguel Rezende,Vendas,Ativo,Visitante,Quarentena
+Daniela Viana,Marketing,Ativo,Visitante,Atualizado
+Luiz Henrique Porto,Marketing,Inativo,Membro,Quarentena
+Sr. Apollo Santos,TI,Inativo,Membro,Quarentena
+Henry Gabriel da Cruz,Marketing,Inativo,Membro,Quarentena
+Cecilia Machado,Vendas,Ativo,Visitante,Atualizado
+Sr. Lucas Sales,RH,Ativo,Owner,Quarentena
+Ana Júlia Monteiro,Vendas,Ativo,Membro,Quarentena
+Srta. Emanuelly Rocha,Vendas,Ativo,Owner,Quarentena
+Ravi Lopes,Financeiro,Inativo,Membro,Atualizado
+Maria Clara da Cruz,Financeiro,Inativo,Membro,Quarentena
+Bianca Pereira,TI,Ativo,Membro,Quarentena
+Matteo Duarte,RH,Ativo,Membro,Atualizado
+Sr. Davi Luiz Ribeiro,RH,Inativo,Membro,Quarentena
+Dr. Vitor Hugo Sá,Marketing,Inativo,Visitante,Atualizado
+Dra. Sophie Moraes,Financeiro,Ativo,Owner,Atualizado
+Manuela Porto,Operações,Ativo,Owner,Quarentena
+Paulo Rocha,Financeiro,Ativo,Visitante,Quarentena
+Antônio Costa,Vendas,Ativo,Visitante,Atualizado
+Dr. Benjamin Mendonça,Vendas,Ativo,Owner,Atualizado
+Yago da Costa,RH,Inativo,Membro,Quarentena
+Bruno Silva,RH,Inativo,Membro,Quarentena
+Luiz Gustavo Novaes,Operações,Ativo,Visitante,Atualizado
+Hadassa Novaes,Operações,Ativo,Visitante,Quarentena
+José Miguel Casa Grande,RH,Ativo,Membro,Quarentena
+Pedro Henrique Sampaio,Financeiro,Inativo,Owner,Quarentena
+Ester Sampaio,Operações,Inativo,Visitante,Atualizado
+Ana Vitória Cassiano,Financeiro,Ativo,Visitante,Quarentena
+Arthur Gabriel Leão,Marketing,Ativo,Membro,Quarentena
+Vitor Rezende,Operações,Inativo,Visitante,Atualizado
+Dra. Laís Vasconcelos,Vendas,Inativo,Owner,Atualizado
+Dr. André Nogueira,RH,Inativo,Visitante,Atualizado
+Kaique Nunes,TI,Inativo,Membro,Atualizado
+Breno Farias,Marketing,Ativo,Owner,Atualizado
+Alana da Cunha,Marketing,Ativo,Visitante,Quarentena
+Stephany Andrade,Marketing,Inativo,Membro,Atualizado
+Daniel Cavalcanti,RH,Ativo,Visitante,Atualizado
+Dr. Diogo Viana,Marketing,Inativo,Visitante,Atualizado
+Emanuella Cavalcante,RH,Ativo,Owner,Atualizado
+Henry Machado,Financeiro,Ativo,Visitante,Quarentena
+Helena Fonseca,Financeiro,Inativo,Membro,Quarentena
+Josué Jesus,Marketing,Inativo,Membro,Atualizado
+Evelyn Silveira,Vendas,Ativo,Owner,Quarentena
+Carlos Eduardo Pires,Financeiro,Inativo,Visitante,Atualizado
+Agatha Aparecida,TI,Ativo,Membro,Atualizado
+Eloah Ramos,Marketing,Ativo,Owner,Quarentena
+Srta. Olívia Duarte,TI,Inativo,Membro,Atualizado
+Srta. Antonella Moura,Vendas,Inativo,Membro,Quarentena
+Dr. Calebe Farias,Marketing,Ativo,Owner,Atualizado
+Letícia Ferreira,Marketing,Ativo,Membro,Atualizado
+Ana Laura Rezende,RH,Ativo,Visitante,Quarentena
+Caroline Sales,Vendas,Inativo,Owner,Atualizado
+Heloísa Sales,Marketing,Ativo,Visitante,Quarentena
+Giovanna Gomes,RH,Ativo,Owner,Atualizado
+Luna Souza,Vendas,Ativo,Visitante,Quarentena
+Dra. Emanuelly Almeida,TI,Inativo,Owner,Quarentena
+Beatriz Duarte,RH,Ativo,Membro,Atualizado
+Diogo Lopes,Operações,Inativo,Membro,Atualizado
+Gael Henrique Abreu,RH,Inativo,Visitante,Atualizado
+Ravy Borges,Vendas,Ativo,Membro,Quarentena
+Enzo Cardoso,Marketing,Ativo,Owner,Atualizado
+Ísis Alves,Marketing,Inativo,Visitante,Atualizado
+Brenda Alves,Vendas,Inativo,Visitante,Quarentena
+Maya Leão,Financeiro,Inativo,Membro,Atualizado
+Luiz Felipe Fernandes,Financeiro,Inativo,Membro,Atualizado
+Pietro da Rosa,Operações,Inativo,Membro,Atualizado
+Caio Casa Grande,Financeiro,Inativo,Visitante,Atualizado
+Jade Silva,Operações,Ativo,Owner,Quarentena
+Lorena Rezende,Operações,Ativo,Visitante,Quarentena
+Hellena Araújo,Vendas,Ativo,Visitante,Atualizado
+Alexia Pinto,TI,Inativo,Visitante,Atualizado
+Dr. José Miguel Gomes,RH,Ativo,Membro,Atualizado
+Maria Vitória da Rocha,Operações,Ativo,Membro,Atualizado
+Thiago Cardoso,Vendas,Ativo,Visitante,Quarentena
+Lorenzo Macedo,RH,Inativo,Owner,Atualizado
+Maria Clara Nascimento,Marketing,Inativo,Membro,Atualizado
+Sra. Sophie Martins,TI,Ativo,Owner,Quarentena
+Enzo Gabriel Cirino,TI,Ativo,Owner,Quarentena
+Isaac da Mota,Vendas,Inativo,Visitante,Quarentena
+Srta. Lunna Fernandes,Operações,Ativo,Owner,Atualizado
+Gustavo Macedo,Vendas,Ativo,Owner,Quarentena
+Henry Araújo,Financeiro,Inativo,Visitante,Atualizado
+Dr. Gabriel Vargas,Vendas,Ativo,Membro,Quarentena
+Dr. Luiz Henrique da Conceição,Financeiro,Inativo,Owner,Quarentena
+Lunna da Rosa,Vendas,Inativo,Membro,Quarentena
+Sr. Gustavo Henrique Duarte,Marketing,Inativo,Membro,Atualizado
+Letícia Lopes,RH,Inativo,Membro,Atualizado
+Esther da Costa,Marketing,Inativo,Membro,Quarentena
+Emilly Costela,RH,Inativo,Membro,Atualizado
+Henrique Casa Grande,Marketing,Inativo,Membro,Quarentena
+Luigi Camargo,RH,Ativo,Membro,Atualizado
+Théo Vasconcelos,Operações,Ativo,Visitante,Atualizado
+Davi Rios,Financeiro,Ativo,Visitante,Atualizado
+Yuri Barros,Financeiro,Ativo,Owner,Quarentena
+Arthur Miguel Almeida,Operações,Inativo,Visitante,Atualizado
+Ana Laura Teixeira,TI,Ativo,Membro,Atualizado
+Pedro Lucas Moreira,Operações,Ativo,Owner,Quarentena
+Ravi Lucca Cirino,RH,Inativo,Membro,Atualizado
+Elisa Monteiro,Operações,Ativo,Visitante,Quarentena
+Sra. Marina Silveira,Marketing,Ativo,Visitante,Quarentena
+Melina Rezende,Marketing,Inativo,Visitante,Atualizado
+Dra. Emanuelly Vieira,Marketing,Inativo,Membro,Quarentena
+Laura Ferreira,Marketing,Ativo,Membro,Atualizado
+Maria Eduarda Dias,Marketing,Inativo,Owner,Quarentena
+Antônio Melo,Vendas,Inativo,Visitante,Atualizado
+Nicole Mendes,Vendas,Inativo,Visitante,Atualizado
+Ryan Cirino,Operações,Inativo,Visitante,Quarentena
+Lunna Montenegro,Vendas,Inativo,Membro,Quarentena
+Isabel Peixoto,Vendas,Ativo,Owner,Quarentena
+Emanuel Andrade,Operações,Ativo,Visitante,Atualizado
+Sra. Bianca Viana,Operações,Ativo,Owner,Atualizado
+Maria Luísa Sales,Vendas,Inativo,Visitante,Quarentena
+Nicole Moura,Marketing,Ativo,Visitante,Quarentena
+Vitor Gabriel Duarte,Financeiro,Ativo,Membro,Atualizado
+Otto Porto,Vendas,Inativo,Visitante,Atualizado
+Antony Cassiano,RH,Inativo,Visitante,Quarentena
+Sra. Esther Vargas,Marketing,Inativo,Membro,Quarentena
+Carolina Machado,TI,Inativo,Membro,Quarentena
+Matheus Cardoso,RH,Ativo,Membro,Quarentena
+Melina Garcia,Operações,Ativo,Visitante,Quarentena
+Heloísa Rocha,Marketing,Ativo,Membro,Atualizado
+Mathias Lima,Marketing,Ativo,Owner,Atualizado
+Caroline Freitas,RH,Ativo,Owner,Quarentena
+Caio Gomes,RH,Inativo,Membro,Quarentena
+Miguel Nogueira,RH,Ativo,Membro,Atualizado
+Maya Mendonça,Operações,Ativo,Owner,Quarentena
+Arthur Miguel Albuquerque,RH,Ativo,Owner,Quarentena
+Felipe Rocha,TI,Inativo,Membro,Atualizado
+Emilly Pinto,TI,Ativo,Owner,Quarentena
+Maria Luiza da Costa,Operações,Ativo,Owner,Quarentena
+Théo Costa,Vendas,Ativo,Owner,Quarentena
+Laís Cunha,Financeiro,Ativo,Visitante,Atualizado
+Dr. Yan Pereira,Vendas,Inativo,Membro,Atualizado
+Pedro Miguel Campos,Financeiro,Ativo,Visitante,Quarentena
+Bernardo Rocha,Financeiro,Inativo,Visitante,Quarentena
+Vitor Sales,Marketing,Ativo,Owner,Atualizado
+Ian Andrade,TI,Ativo,Owner,Quarentena
+João Pedro Cassiano,Marketing,Ativo,Membro,Quarentena
+Fernando Vieira,Vendas,Ativo,Owner,Atualizado
+Maria Fernanda Cunha,Operações,Ativo,Visitante,Atualizado
+Gustavo Henrique Costa,TI,Inativo,Visitante,Atualizado
+Lorena Pinto,TI,Inativo,Membro,Atualizado
+Sr. Danilo Cassiano,TI,Ativo,Visitante,Atualizado
+Dr. Davi Sousa,TI,Ativo,Owner,Atualizado
+Henrique Viana,Marketing,Ativo,Visitante,Quarentena
+Heitor Lima,Operações,Inativo,Visitante,Quarentena
+Gustavo Henrique Pinto,Vendas,Inativo,Visitante,Atualizado
+Mariana Barbosa,TI,Inativo,Visitante,Quarentena
+Srta. Ayla Albuquerque,Operações,Ativo,Visitante,Quarentena
+Srta. Maria Helena da Conceição,Vendas,Ativo,Visitante,Atualizado
+Lunna Cunha,Vendas,Ativo,Owner,Atualizado
+Ayla Azevedo,Operações,Inativo,Membro,Quarentena
+Vinícius Araújo,Marketing,Ativo,Membro,Atualizado
+Bruno Melo,Marketing,Ativo,Membro,Atualizado
+Otávio Casa Grande,Operações,Ativo,Membro,Atualizado
+Lara Duarte,Vendas,Ativo,Visitante,Quarentena
+Luiz Fernando Cavalcanti,Vendas,Ativo,Owner,Atualizado
+Léo Pereira,Operações,Inativo,Visitante,Atualizado
+Heloisa da Cruz,Marketing,Ativo,Membro,Atualizado
+Ana Cecília Fonseca,Operações,Inativo,Membro,Quarentena
+Vitor Montenegro,Financeiro,Ativo,Membro,Quarentena
+Emanuel Correia,Marketing,Inativo,Visitante,Quarentena
+Marcelo Ferreira,Vendas,Ativo,Membro,Quarentena
+Isabella Rodrigues,Vendas,Ativo,Owner,Atualizado
+Gael Sampaio,TI,Ativo,Membro,Quarentena
+Sr. José Miguel Silva,Marketing,Ativo,Owner,Quarentena
+Allana da Rosa,Operações,Inativo,Visitante,Atualizado
+Luna Andrade,Operações,Inativo,Membro,Atualizado
+Maya Rodrigues,TI,Inativo,Membro,Atualizado
+Sra. Sophia Caldeira,Operações,Inativo,Visitante,Atualizado
+Sr. Isaque Pastor,Financeiro,Inativo,Visitante,Atualizado
+Gabriel Andrade,Marketing,Inativo,Membro,Quarentena
+Ana Clara Aparecida,Operações,Ativo,Membro,Atualizado
+Luna da Rocha,Financeiro,Inativo,Membro,Atualizado
+Ryan Caldeira,Operações,Ativo,Visitante,Quarentena
+Agatha Rodrigues,TI,Inativo,Membro,Quarentena
+Sr. Enzo Gabriel Montenegro,Operações,Ativo,Owner,Atualizado
+Ayla Pastor,Financeiro,Inativo,Membro,Quarentena
+Vitor Freitas,Marketing,Inativo,Membro,Quarentena
+Sophia Duarte,Marketing,Ativo,Visitante,Atualizado
+Dr. Rhavi Farias,Operações,Ativo,Visitante,Quarentena
+Mariana Farias,TI,Inativo,Membro,Quarentena
+Calebe Rezende,Financeiro,Ativo,Visitante,Atualizado
+Nicolas Correia,Marketing,Inativo,Visitante,Atualizado
+Sra. Maria Sophia Novaes,Marketing,Ativo,Membro,Atualizado
+Bella Pastor,Financeiro,Ativo,Owner,Atualizado
+Dra. Daniela Silveira,RH,Inativo,Membro,Quarentena
+Dr. Benjamim Cunha,Marketing,Ativo,Visitante,Quarentena
+Davi Lucca da Rosa,Marketing,Inativo,Membro,Quarentena
+Rael Costa,TI,Inativo,Visitante,Atualizado
+Allana Borges,Financeiro,Inativo,Owner,Atualizado
+Pedro Miguel Viana,Financeiro,Ativo,Membro,Quarentena
+Caroline Nunes,Marketing,Ativo,Visitante,Quarentena
+Maysa da Paz,TI,Ativo,Owner,Atualizado
+Asafe Cavalcante,TI,Ativo,Owner,Atualizado
+Yago Rocha,TI,Ativo,Owner,Quarentena
+Henry Albuquerque,Marketing,Inativo,Visitante,Atualizado
+Yan Carvalho,Financeiro,Inativo,Visitante,Atualizado
+Ana Liz Farias,Vendas,Ativo,Membro,Quarentena
+Antony Viana,RH,Inativo,Membro,Atualizado
+Guilherme Monteiro,Operações,Ativo,Owner,Quarentena
+Kamilly Silveira,Vendas,Inativo,Membro,Quarentena
+Ísis Pastor,Marketing,Inativo,Membro,Quarentena
+Rafaela Pacheco,Financeiro,Inativo,Membro,Quarentena
+Laís Siqueira,Vendas,Inativo,Membro,Atualizado
+Ravi Costa,RH,Ativo,Owner,Quarentena
+Srta. Zoe Pimenta,Vendas,Ativo,Visitante,Quarentena
+Daniela da Luz,Financeiro,Inativo,Visitante,Quarentena
+Luiz Miguel Campos,Operações,Inativo,Owner,Quarentena
+Kamilly Ramos,Vendas,Inativo,Visitante,Atualizado
+Dr. Gabriel Gomes,Vendas,Ativo,Visitante,Atualizado
+Dr. Luiz Fernando Castro,Financeiro,Ativo,Owner,Quarentena
+Cecilia da Conceição,Financeiro,Ativo,Owner,Quarentena
+Augusto Araújo,Financeiro,Inativo,Visitante,Atualizado
+Luísa Guerra,Vendas,Inativo,Visitante,Atualizado
+Oliver Rodrigues,Operações,Inativo,Visitante,Quarentena
+Pedro Henrique Rezende,RH,Ativo,Visitante,Quarentena
+Marina da Rosa,Marketing,Ativo,Membro,Atualizado
+Raquel Fonseca,Vendas,Ativo,Visitante,Atualizado
+Leonardo Ferreira,Marketing,Inativo,Visitante,Quarentena
+Cecilia Viana,Vendas,Ativo,Membro,Quarentena
+João Guilherme Borges,Operações,Inativo,Membro,Quarentena
+Sra. Sophia Montenegro,Financeiro,Inativo,Visitante,Atualizado
+Yago Rezende,Financeiro,Ativo,Owner,Atualizado
+Antony Barros,Marketing,Inativo,Owner,Atualizado
+Ana Duarte,Vendas,Inativo,Visitante,Atualizado
+Manuella Câmara,TI,Ativo,Visitante,Quarentena
+Luiz Otávio Ramos,TI,Ativo,Owner,Atualizado
+Luiz Fernando Sampaio,Marketing,Ativo,Visitante,Quarentena
+Sr. Enzo Caldeira,Marketing,Ativo,Visitante,Atualizado
+Luiz Gustavo Nascimento,Operações,Inativo,Membro,Atualizado
+Sabrina Moura,Operações,Inativo,Owner,Atualizado
+Benício Ferreira,TI,Inativo,Membro,Quarentena
+Dr. Vinicius Alves,Operações,Inativo,Visitante,Atualizado
+Brenda Moreira,TI,Ativo,Owner,Quarentena
+Luiza Campos,Financeiro,Inativo,Membro,Atualizado
+Sara Pacheco,Marketing,Inativo,Visitante,Quarentena
+Gustavo Cardoso,Operações,Ativo,Owner,Quarentena
+Ana Julia Novaes,Marketing,Ativo,Owner,Quarentena
+Ana Farias,Vendas,Ativo,Visitante,Atualizado
+Pedro Miguel Gonçalves,Financeiro,Inativo,Membro,Quarentena
+Raquel Jesus,Marketing,Inativo,Membro,Quarentena
+Marcelo da Rosa,Vendas,Ativo,Owner,Atualizado
+Gustavo da Luz,RH,Inativo,Visitante,Atualizado
+Mathias Câmara,Operações,Ativo,Owner,Atualizado
+Maria Luísa Cardoso,RH,Inativo,Visitante,Atualizado
+Leandro da Luz,RH,Ativo,Visitante,Atualizado
+Luiza Monteiro,TI,Ativo,Owner,Quarentena
+Srta. Sara Vieira,Vendas,Inativo,Visitante,Atualizado
+Ana Clara Aragão,TI,Ativo,Owner,Atualizado
+Caio da Rocha,Operações,Inativo,Membro,Quarentena
+Yago Câmara,Financeiro,Inativo,Membro,Quarentena
+Sr. Leandro Gonçalves,Marketing,Inativo,Membro,Atualizado
+Bruna Castro,Financeiro,Inativo,Visitante,Quarentena
+Pedro Miguel Aragão,Marketing,Ativo,Owner,Quarentena
+Marcos Vinicius Lima,Marketing,Inativo,Membro,Atualizado
+Benício da Costa,TI,Ativo,Owner,Atualizado
+Antonella Pacheco,RH,Ativo,Visitante,Atualizado
+Alice Macedo,Vendas,Ativo,Visitante,Quarentena
+João Felipe Freitas,Vendas,Ativo,Membro,Atualizado
+Vinícius Campos,Operações,Ativo,Membro,Quarentena
+Cecilia Pastor,Operações,Ativo,Visitante,Atualizado
+Ana Clara Marques,TI,Ativo,Membro,Quarentena
+Gael Henrique Borges,RH,Ativo,Visitante,Quarentena
+Luan Sousa,Operações,Ativo,Membro,Atualizado
+Marcos Vinicius Barros,Financeiro,Ativo,Owner,Quarentena
+Ana Julia Pinto,RH,Inativo,Visitante,Atualizado
+Sra. Cecília Moraes,RH,Ativo,Owner,Atualizado
+Maria Eduarda Nunes,Marketing,Ativo,Visitante,Atualizado
+Yasmin Gomes,Operações,Inativo,Visitante,Quarentena
+Maria Cecília Montenegro,RH,Ativo,Owner,Quarentena
+Lavínia Camargo,Financeiro,Ativo,Owner,Quarentena
+Valentim Sá,TI,Ativo,Visitante,Atualizado
+Benjamin Moraes,Financeiro,Inativo,Visitante,Quarentena
+Davi Lucca Cassiano,Marketing,Ativo,Membro,Atualizado
+Esther Souza,Financeiro,Inativo,Membro,Quarentena
+Bento da Rocha,Vendas,Ativo,Owner,Atualizado
+Srta. Juliana Dias,TI,Ativo,Visitante,Quarentena
+Ana Clara Vargas,Marketing,Ativo,Membro,Atualizado
+Yuri Almeida,Financeiro,Inativo,Visitante,Atualizado
+Sra. Lunna Mendonça,Marketing,Ativo,Visitante,Atualizado
+Sophie da Mota,TI,Inativo,Visitante,Atualizado
+Gabriel Machado,TI,Ativo,Visitante,Atualizado
+Lorenzo Cunha,Marketing,Inativo,Owner,Atualizado
+Bruna Abreu,Operações,Inativo,Visitante,Atualizado
+Luiz Henrique Monteiro,Marketing,Ativo,Membro,Atualizado
+Sr. Murilo Mendes,Marketing,Inativo,Membro,Quarentena
+Paulo Vieira,Financeiro,Inativo,Visitante,Quarentena
+João Pedro da Rosa,Vendas,Ativo,Visitante,Quarentena
+Srta. Mariah da Mota,Operações,Inativo,Membro,Quarentena
+Ana Liz Cassiano,Vendas,Inativo,Visitante,Atualizado
+Otto Guerra,Financeiro,Ativo,Membro,Atualizado
+Manuella Ramos,Marketing,Ativo,Membro,Quarentena
+Emilly Ribeiro,Vendas,Ativo,Visitante,Atualizado
+Maitê Sousa,TI,Ativo,Visitante,Atualizado
+Kamilly Nogueira,Financeiro,Inativo,Membro,Quarentena
+Gael Henrique da Paz,Operações,Inativo,Membro,Atualizado
+Matteo Rezende,TI,Ativo,Visitante,Atualizado
+Hadassa Cunha,Vendas,Ativo,Membro,Atualizado
+Theodoro Siqueira,Operações,Ativo,Owner,Quarentena
+Bento Casa Grande,TI,Inativo,Membro,Atualizado
+Dr. Theo Nascimento,Financeiro,Inativo,Membro,Atualizado
+Yago Andrade,Vendas,Ativo,Owner,Quarentena
+Gael Rodrigues,Financeiro,Inativo,Visitante,Atualizado
+Yan Lopes,Operações,Ativo,Owner,Atualizado
+Sofia Farias,Operações,Inativo,Visitante,Quarentena
+Rhavi da Paz,Vendas,Ativo,Membro,Quarentena
+Mariah Ferreira,Operações,Inativo,Visitante,Quarentena
+João Guilherme Vieira,TI,Inativo,Visitante,Atualizado
+Rael Porto,RH,Ativo,Membro,Quarentena
+Miguel Moraes,Marketing,Inativo,Visitante,Quarentena
+Thiago Novais,RH,Inativo,Membro,Quarentena
+Augusto Rodrigues,Marketing,Inativo,Visitante,Quarentena
+Ana Clara Cavalcante,RH,Inativo,Membro,Quarentena
+Isis Freitas,RH,Ativo,Visitante,Quarentena
+Luigi Câmara,RH,Inativo,Visitante,Atualizado
+Isabella Garcia,Financeiro,Ativo,Visitante,Atualizado
+Maria Isis Fernandes,Financeiro,Ativo,Membro,Quarentena
+Erick Freitas,Financeiro,Ativo,Membro,Quarentena
+Thales Borges,Vendas,Inativo,Visitante,Quarentena
+Dr. Leandro Azevedo,Operações,Ativo,Owner,Quarentena
+Diego Azevedo,TI,Ativo,Owner,Atualizado
+Maria Eduarda Garcia,Marketing,Ativo,Visitante,Atualizado
+Dr. Gael Novais,Financeiro,Ativo,Membro,Atualizado
+Dra. Isadora Andrade,RH,Ativo,Visitante,Atualizado
+Alexandre Sousa,RH,Ativo,Visitante,Quarentena
+Larissa Barros,Marketing,Inativo,Visitante,Atualizado
+Lorenzo Siqueira,Operações,Inativo,Membro,Atualizado
+Camila Costela,Marketing,Inativo,Membro,Quarentena
+João Vitor da Rocha,Operações,Inativo,Visitante,Quarentena
+Francisco Correia,Marketing,Inativo,Owner,Atualizado
+Yasmin Martins,RH,Inativo,Visitante,Quarentena
+Miguel Siqueira,RH,Ativo,Visitante,Atualizado
+Ana Vitória Pastor,Marketing,Inativo,Visitante,Quarentena
+Alana Barros,Operações,Inativo,Membro,Atualizado
+Bruno Vargas,RH,Inativo,Membro,Quarentena
+Noah Borges,Marketing,Inativo,Visitante,Quarentena
+Cauê Sousa,Operações,Inativo,Visitante,Quarentena
+Luiz Otávio Cavalcante,Financeiro,Inativo,Owner,Atualizado
+Dr. Marcelo Castro,Financeiro,Inativo,Membro,Atualizado
+Mirella Aparecida,Financeiro,Inativo,Membro,Atualizado
+Sr. Marcelo Azevedo,Vendas,Ativo,Membro,Quarentena
+Maria Sophia Castro,Financeiro,Ativo,Membro,Quarentena
+Sr. Benicio Sales,TI,Ativo,Owner,Quarentena
+Dr. Benjamin Duarte,Marketing,Inativo,Visitante,Atualizado
+Anna Liz da Paz,Marketing,Ativo,Visitante,Quarentena
+Laura Castro,Vendas,Inativo,Membro,Atualizado
+Bryan Oliveira,Financeiro,Inativo,Owner,Quarentena
+Caroline Souza,Vendas,Inativo,Membro,Atualizado
+Luiz Fernando Cavalcante,Financeiro,Inativo,Visitante,Quarentena
+Alícia Viana,Financeiro,Ativo,Owner,Atualizado
+Pedro das Neves,Marketing,Ativo,Visitante,Atualizado
+Enzo Gabriel Fernandes,Vendas,Ativo,Visitante,Atualizado
+João Pedro Silveira,RH,Inativo,Membro,Atualizado
+Pedro Miguel Fogaça,Marketing,Ativo,Visitante,Quarentena
+Sr. Gael Henrique Jesus,RH,Inativo,Visitante,Atualizado
+José Pedro Cirino,Marketing,Inativo,Visitante,Atualizado
+José Pedro Moraes,Vendas,Inativo,Visitante,Quarentena
+Manuella Castro,TI,Inativo,Visitante,Atualizado
+Maitê Abreu,Financeiro,Inativo,Membro,Atualizado
+Valentim Melo,TI,Ativo,Visitante,Quarentena
+Mariana Sales,RH,Ativo,Membro,Atualizado
+Sr. André Vieira,Marketing,Ativo,Owner,Quarentena
+Dra. Giovanna Câmara,RH,Inativo,Visitante,Atualizado
+Melissa Correia,Financeiro,Ativo,Visitante,Atualizado
+Dante Silveira,Vendas,Inativo,Visitante,Quarentena
+Yuri Aragão,RH,Inativo,Visitante,Atualizado
+Emilly Martins,Operações,Inativo,Owner,Quarentena
+Matteo Machado,Operações,Inativo,Visitante,Atualizado
+Felipe Garcia,RH,Inativo,Visitante,Atualizado
+Dr. Renan da Cunha,Marketing,Inativo,Visitante,Atualizado
+Maria Clara Macedo,Marketing,Ativo,Visitante,Quarentena
+Isadora Rodrigues,Financeiro,Inativo,Owner,Quarentena
+Natália Pacheco,Marketing,Inativo,Visitante,Quarentena
+Dr. Gustavo Mendonça,Operações,Inativo,Membro,Atualizado
+Isaque Lima,Vendas,Inativo,Visitante,Quarentena
+Rael Cavalcante,RH,Inativo,Visitante,Atualizado
+Henry Gabriel Mendes,TI,Ativo,Membro,Atualizado
+Sra. Maria Liz Marques,RH,Inativo,Visitante,Quarentena
+Marcos Vinicius Ferreira,Vendas,Inativo,Visitante,Quarentena
+João Gabriel Campos,RH,Inativo,Visitante,Quarentena
+Raquel Macedo,Marketing,Inativo,Membro,Atualizado
+Ágatha Aragão,RH,Ativo,Membro,Atualizado
+Davi Lucas Cirino,RH,Ativo,Visitante,Atualizado
+Sr. Luigi Alves,TI,Ativo,Owner,Atualizado
+Dr. Diego Duarte,Operações,Inativo,Membro,Quarentena
+Sra. Heloísa Cavalcante,TI,Inativo,Visitante,Quarentena
+Maria Isis Machado,Operações,Inativo,Visitante,Quarentena
+Dr. Igor Sá,Vendas,Inativo,Visitante,Atualizado
+Alexia Cassiano,RH,Ativo,Owner,Atualizado
+Amanda Peixoto,RH,Inativo,Visitante,Quarentena
+Sr. Thiago Campos,Operações,Inativo,Membro,Quarentena
+Enzo Novais,Operações,Inativo,Membro,Atualizado
+Letícia Araújo,Operações,Inativo,Visitante,Atualizado
+Isis Pacheco,TI,Inativo,Owner,Atualizado
+Brenda Barbosa,Financeiro,Ativo,Membro,Quarentena
+Dra. Melina Albuquerque,Marketing,Ativo,Visitante,Quarentena
+Antonella Duarte,Marketing,Inativo,Owner,Atualizado
+Dra. Isadora Carvalho,Operações,Ativo,Membro,Quarentena
+Vitória Leão,Vendas,Ativo,Visitante,Quarentena
+Dra. Zoe Montenegro,TI,Inativo,Membro,Quarentena
+Sr. Benício da Mota,Vendas,Inativo,Membro,Atualizado
+Julia Ferreira,TI,Inativo,Visitante,Quarentena
+Elisa Fonseca,TI,Inativo,Membro,Atualizado
+Marcela da Rosa,RH,Ativo,Membro,Quarentena
+João Pedro Albuquerque,Marketing,Ativo,Membro,Atualizado
+Dra. Eloah Sales,Marketing,Ativo,Owner,Atualizado
+Vitória Lopes,Marketing,Ativo,Owner,Quarentena
+Beatriz Cirino,Operações,Ativo,Visitante,Quarentena
+Aylla Moraes,Marketing,Inativo,Membro,Atualizado
+Ana Laura Melo,Financeiro,Inativo,Visitante,Atualizado
+Sra. Maria Helena Novais,Operações,Ativo,Membro,Quarentena
+Ana Beatriz Cardoso,Vendas,Ativo,Membro,Quarentena
+José Miguel Monteiro,RH,Ativo,Membro,Atualizado
+Sra. Maria Alice Cunha,Marketing,Ativo,Owner,Atualizado
+Sr. João Gabriel da Paz,Operações,Inativo,Visitante,Quarentena
+Ana Vitória Aparecida,Financeiro,Ativo,Visitante,Quarentena
+Sra. Luara Caldeira,Operações,Inativo,Visitante,Atualizado
+Sr. Gael Henrique Santos,Financeiro,Ativo,Membro,Quarentena
+Sabrina Rocha,Marketing,Inativo,Visitante,Quarentena
+Leonardo Fernandes,TI,Inativo,Membro,Quarentena
+Théo Fernandes,Operações,Ativo,Visitante,Atualizado
+Thales Barbosa,Financeiro,Inativo,Visitante,Atualizado
+Francisco Sampaio,Financeiro,Ativo,Visitante,Atualizado
+Maria Silveira,Financeiro,Inativo,Membro,Atualizado
+Srta. Ana Lívia Lopes,TI,Ativo,Visitante,Atualizado
+Felipe Cunha,Financeiro,Ativo,Membro,Atualizado
+Emanuelly Pastor,Marketing,Inativo,Visitante,Atualizado
+João Vitor Moraes,Operações,Ativo,Membro,Atualizado
+Renan Albuquerque,Financeiro,Ativo,Membro,Atualizado
+Hadassa Jesus,TI,Inativo,Membro,Atualizado
+Melissa Santos,TI,Inativo,Visitante,Atualizado
+Antônio Vargas,Operações,Ativo,Membro,Quarentena
+Thiago da Luz,Marketing,Inativo,Membro,Atualizado
+Ana Beatriz Brito,Operações,Inativo,Owner,Quarentena
+Maria Luiza Oliveira,Financeiro,Ativo,Membro,Atualizado
+Nicole Melo,Marketing,Inativo,Visitante,Atualizado
+Joana Siqueira,Marketing,Ativo,Owner,Quarentena
+Luiz Fernando Borges,TI,Inativo,Visitante,Quarentena
+Arthur Gabriel Fonseca,Financeiro,Inativo,Membro,Atualizado
+Maria Cecília Duarte,Marketing,Inativo,Membro,Quarentena
+João Gabriel Alves,Vendas,Ativo,Visitante,Atualizado
+Vitor Gabriel Sá,Marketing,Ativo,Owner,Atualizado
+Sra. Melissa Abreu,Marketing,Ativo,Membro,Quarentena
+Luiz Felipe Montenegro,Marketing,Inativo,Visitante,Quarentena
+Lucas Gabriel da Rosa,TI,Ativo,Visitante,Quarentena
+Dr. Davi Luiz Casa Grande,Marketing,Ativo,Visitante,Quarentena
+Noah Duarte,Vendas,Ativo,Membro,Quarentena
+Rodrigo Pimenta,TI,Ativo,Visitante,Quarentena
+Theo Gomes,Operações,Ativo,Membro,Atualizado
+Benicio Rodrigues,TI,Inativo,Membro,Atualizado
+Hellena da Paz,TI,Inativo,Membro,Atualizado
+Dra. Maria Flor Vasconcelos,Vendas,Inativo,Visitante,Quarentena
+Luiz Miguel da Paz,Vendas,Inativo,Membro,Atualizado
+Dra. Ana Lívia da Cunha,Operações,Ativo,Membro,Atualizado
+José Pedro Cassiano,Operações,Ativo,Visitante,Quarentena
+Pedro Henrique Porto,RH,Inativo,Membro,Atualizado
+Luiz Henrique Sá,Operações,Inativo,Membro,Atualizado
+Srta. Bella Fonseca,Marketing,Inativo,Visitante,Atualizado
+Bryan Camargo,TI,Ativo,Visitante,Atualizado
+Vitor Oliveira,Marketing,Inativo,Visitante,Atualizado
+Sra. Elisa Melo,Vendas,Inativo,Visitante,Quarentena
+Juan Borges,Financeiro,Ativo,Visitante,Quarentena
+Sophie da Paz,RH,Ativo,Visitante,Quarentena
+Dr. Dom Lopes,Marketing,Ativo,Visitante,Atualizado
+Dra. Maysa Monteiro,Operações,Ativo,Membro,Quarentena
+Dr. Dom Monteiro,TI,Ativo,Membro,Quarentena
+Otto Leão,Marketing,Inativo,Membro,Atualizado
+Ryan Fonseca,Vendas,Ativo,Visitante,Atualizado
+Maria Liz da Conceição,Marketing,Inativo,Membro,Quarentena
+Dr. Benjamim Campos,Marketing,Ativo,Owner,Atualizado
+Maria Helena Pastor,Vendas,Inativo,Membro,Quarentena
+Rodrigo Pastor,Vendas,Inativo,Visitante,Atualizado
+Ana Carolina Martins,Marketing,Ativo,Membro,Atualizado
+Yan Fonseca,Operações,Inativo,Membro,Quarentena
+Ravy Rocha,TI,Ativo,Membro,Quarentena
+Stella da Mata,RH,Inativo,Visitante,Atualizado
+Dr. Heitor Pimenta,TI,Inativo,Membro,Atualizado
+Bryan Costela,Operações,Inativo,Membro,Atualizado
+Dra. Evelyn Gonçalves,Financeiro,Ativo,Membro,Quarentena
+João Siqueira,Operações,Inativo,Visitante,Quarentena
+Francisco Nunes,Financeiro,Ativo,Owner,Quarentena
+João Gabriel Ribeiro,RH,Inativo,Owner,Quarentena
+Ravi Freitas,Operações,Inativo,Owner,Quarentena
+Manuela Nunes,TI,Ativo,Visitante,Quarentena
+Marina Cunha,RH,Ativo,Membro,Quarentena
+Dr. Luiz Otávio Cassiano,Financeiro,Ativo,Visitante,Atualizado
+Isabelly Caldeira,Operações,Ativo,Owner,Quarentena
+Antonella Castro,Financeiro,Ativo,Visitante,Quarentena
+Cauê Aparecida,Marketing,Inativo,Membro,Atualizado
+Lorena Novais,Vendas,Inativo,Owner,Atualizado
+André Andrade,Operações,Inativo,Owner,Atualizado
+João Miguel Leão,RH,Inativo,Visitante,Atualizado
+Rodrigo Araújo,Vendas,Inativo,Visitante,Quarentena
+Larissa Aragão,Financeiro,Ativo,Owner,Quarentena
+Maitê Alves,Financeiro,Inativo,Visitante,Quarentena
+Gabriela Andrade,RH,Inativo,Membro,Quarentena
+Renan Sales,RH,Ativo,Owner,Quarentena
+Emanuel Nunes,Financeiro,Inativo,Visitante,Atualizado
+Maria Fernanda Camargo,Operações,Ativo,Visitante,Atualizado
+Sr. Murilo Aragão,Operações,Ativo,Membro,Quarentena
+Isaque Pastor,Financeiro,Ativo,Membro,Quarentena
+Dra. Fernanda da Conceição,RH,Ativo,Membro,Quarentena
+Daniela Gomes,Operações,Ativo,Owner,Atualizado
+Léo Silva,Vendas,Inativo,Membro,Atualizado
+Sra. Ana Luiza da Costa,Operações,Ativo,Owner,Atualizado
+Antônio Vasconcelos,RH,Ativo,Membro,Quarentena
+Rebeca Pimenta,TI,Inativo,Membro,Quarentena
+Lavínia Oliveira,RH,Ativo,Owner,Quarentena
+Otávio Azevedo,Operações,Ativo,Visitante,Atualizado
+Alana da Paz,Financeiro,Inativo,Membro,Quarentena
+Dr. Pedro Sampaio,Operações,Ativo,Owner,Atualizado
+Theo Melo,Vendas,Ativo,Membro,Quarentena
+Rodrigo Silveira,TI,Inativo,Membro,Atualizado
+Vicente Silveira,RH,Ativo,Owner,Atualizado
+Otávio Pires,Operações,Inativo,Membro,Atualizado
+Vitor Hugo Dias,Marketing,Ativo,Visitante,Atualizado
+Dr. Anthony Guerra,Financeiro,Ativo,Owner,Quarentena
+Maya Mendes,Financeiro,Ativo,Membro,Atualizado
+Maria Fernanda Cavalcanti,TI,Ativo,Visitante,Atualizado
+Alice Campos,Marketing,Ativo,Membro,Quarentena
+Olivia Vasconcelos,Operações,Ativo,Owner,Quarentena
+Sofia da Conceição,TI,Inativo,Visitante,Atualizado
+Henry Cardoso,Financeiro,Ativo,Visitante,Atualizado
+Maria Luísa Moura,Marketing,Inativo,Visitante,Quarentena
+Zoe Ferreira,Marketing,Ativo,Visitante,Atualizado
+Olívia Souza,Marketing,Inativo,Membro,Quarentena
+Alexia Fonseca,Marketing,Ativo,Visitante,Quarentena
+Maysa Cunha,RH,Ativo,Membro,Atualizado
+Luiz Henrique Siqueira,Vendas,Inativo,Visitante,Quarentena
+Sra. Hadassa Guerra,Financeiro,Ativo,Owner,Quarentena
+Sr. Arthur Miguel Pimenta,Marketing,Ativo,Membro,Atualizado
+Srta. Kamilly Pereira,Financeiro,Ativo,Owner,Quarentena
+Dr. Gustavo Henrique Mendes,RH,Ativo,Membro,Quarentena
+Henry Câmara,Marketing,Inativo,Owner,Atualizado
+Luan Garcia,Marketing,Ativo,Owner,Atualizado
+Arthur Gabriel Gonçalves,Financeiro,Inativo,Owner,Quarentena
+Henry Lima,RH,Inativo,Membro,Atualizado
+Benício Dias,Marketing,Inativo,Visitante,Quarentena
+João Felipe Almeida,Operações,Inativo,Membro,Quarentena
+Dr. Francisco Pereira,TI,Ativo,Visitante,Quarentena
+Pedro Lucas Lopes,Financeiro,Inativo,Owner,Atualizado
+Daniel Ribeiro,Marketing,Inativo,Visitante,Atualizado
+Yago Teixeira,Marketing,Inativo,Visitante,Atualizado
+Renan Oliveira,Financeiro,Ativo,Owner,Atualizado
+Dra. Isabelly Melo,Operações,Inativo,Visitante,Atualizado
+Luiz Felipe Mendonça,RH,Inativo,Membro,Quarentena
+Maria Isis Cirino,Vendas,Ativo,Owner,Quarentena
+Milena Andrade,Marketing,Ativo,Membro,Atualizado
+Alana Pinto,TI,Ativo,Owner,Atualizado
+Lucas Gabriel Cassiano,Vendas,Inativo,Visitante,Quarentena
+Maria Eduarda Vasconcelos,Marketing,Ativo,Membro,Atualizado
+Sr. Marcos Vinicius da Mata,Operações,Inativo,Membro,Quarentena
+Sra. Maria Eduarda Castro,Operações,Ativo,Visitante,Quarentena
+Bento Montenegro,Marketing,Ativo,Owner,Quarentena
+Maria Laura Dias,RH,Ativo,Membro,Quarentena
+Nina Moreira,Vendas,Ativo,Membro,Quarentena
+João Pedro Fonseca,TI,Inativo,Visitante,Quarentena
+Luísa Cassiano,Financeiro,Ativo,Membro,Quarentena
+Thales Souza,Operações,Ativo,Owner,Quarentena
+Srta. Heloísa Novais,Marketing,Ativo,Visitante,Quarentena
+Sr. Lucas Cardoso,Vendas,Inativo,Membro,Atualizado
+Dra. Gabriela Garcia,Operações,Inativo,Visitante,Quarentena
+Dr. João Miguel Macedo,Operações,Inativo,Membro,Quarentena
+Dr. Theo Alves,Marketing,Inativo,Membro,Quarentena
+Srta. Sofia Campos,Operações,Ativo,Owner,Quarentena
+Guilherme Campos,Operações,Inativo,Visitante,Quarentena
+Lavínia Ramos,Financeiro,Inativo,Visitante,Atualizado
+Eduardo Silveira,Financeiro,Inativo,Visitante,Quarentena
+Ana Lívia Casa Grande,Financeiro,Ativo,Visitante,Quarentena
+André Nascimento,Financeiro,Inativo,Visitante,Atualizado
+Jade Silveira,Vendas,Inativo,Visitante,Atualizado
+Sabrina Oliveira,TI,Ativo,Membro,Quarentena
+Natália Marques,Operações,Ativo,Owner,Atualizado
+Luiz Gustavo da Conceição,TI,Inativo,Visitante,Atualizado
+Brayan Andrade,RH,Ativo,Owner,Atualizado
+Maria Sophia Alves,Marketing,Ativo,Owner,Quarentena
+Laís Teixeira,Financeiro,Ativo,Membro,Quarentena
+Ísis Brito,Operações,Ativo,Owner,Quarentena
+Beatriz Cassiano,Vendas,Ativo,Visitante,Quarentena
+Asafe Andrade,Financeiro,Ativo,Visitante,Quarentena
+Ana Vitória Costela,Financeiro,Inativo,Membro,Atualizado
+Antônio Cavalcanti,Vendas,Inativo,Membro,Quarentena
+Pedro Campos,TI,Inativo,Membro,Quarentena
+Sr. Anthony Fonseca,Financeiro,Ativo,Owner,Quarentena
+Ravi Rodrigues,TI,Ativo,Visitante,Quarentena
+Ravi Lucca Aparecida,TI,Ativo,Owner,Atualizado
+Manuela Lima,Operações,Inativo,Membro,Quarentena
+Dr. Yan Caldeira,TI,Ativo,Owner,Quarentena
+Daniel Pires,TI,Inativo,Visitante,Atualizado
+Manuela Aragão,Marketing,Inativo,Visitante,Quarentena
+Felipe Macedo,Operações,Inativo,Membro,Atualizado
+Camila Caldeira,RH,Inativo,Membro,Quarentena
+Srta. Mariana Sales,Operações,Inativo,Owner,Atualizado
+Gustavo Henrique Pimenta,RH,Ativo,Owner,Atualizado
+Alice Fogaça,Operações,Ativo,Membro,Atualizado
+Anna Liz Melo,Financeiro,Ativo,Visitante,Quarentena
+Hadassa Mendes,RH,Ativo,Membro,Quarentena
+Nicolas Freitas,TI,Ativo,Membro,Atualizado
+Sr. João Guilherme Azevedo,Financeiro,Ativo,Owner,Quarentena
+Isabel Souza,Vendas,Inativo,Owner,Quarentena
+Ester Leão,TI,Inativo,Membro,Atualizado
+Bruno Santos,Marketing,Ativo,Owner,Quarentena
+Vitor Gabriel Nunes,Vendas,Inativo,Visitante,Atualizado
+Dr. Lucca Nunes,RH,Ativo,Owner,Atualizado
+Pedro Lucas Barbosa,RH,Inativo,Membro,Quarentena
+Maria Fernanda Pimenta,TI,Ativo,Membro,Quarentena
+Henrique Azevedo,RH,Ativo,Owner,Quarentena
+Matteo Cardoso,Vendas,Ativo,Membro,Quarentena
+Yasmin Casa Grande,RH,Inativo,Visitante,Quarentena
+Augusto Cavalcante,Marketing,Ativo,Visitante,Quarentena
+Benício Nascimento,RH,Inativo,Owner,Quarentena
+Enzo Gabriel Câmara,Financeiro,Ativo,Membro,Quarentena
+Alana Araújo,Marketing,Ativo,Visitante,Atualizado
+Bento Nogueira,Financeiro,Ativo,Membro,Quarentena
+Maria Julia Teixeira,Vendas,Ativo,Visitante,Quarentena
+Mathias Farias,Operações,Inativo,Owner,Quarentena
+Rebeca Rodrigues,Operações,Inativo,Visitante,Atualizado
+Theo da Luz,Vendas,Inativo,Visitante,Quarentena
+Ana Carolina Campos,TI,Inativo,Membro,Quarentena
+Isis Cirino,Vendas,Ativo,Visitante,Quarentena
+Ana Júlia Carvalho,Operações,Inativo,Membro,Quarentena
+Eloah Dias,RH,Ativo,Membro,Quarentena
+Maya Rodrigues,Marketing,Ativo,Owner,Atualizado
+Ana Carolina Martins,Operações,Inativo,Membro,Atualizado
+Hellena Cardoso,RH,Inativo,Membro,Quarentena
+Giovanna Castro,Vendas,Ativo,Membro,Atualizado
+Luiz Fernando Nascimento,TI,Inativo,Visitante,Quarentena
+Leandro Fogaça,Marketing,Inativo,Membro,Quarentena
+Pietra Nunes,TI,Inativo,Membro,Quarentena
+Maria Liz Marques,Vendas,Inativo,Membro,Quarentena
+Beatriz Dias,Operações,Ativo,Owner,Quarentena
+Benjamin Martins,Vendas,Ativo,Owner,Atualizado
+Sr. Yago Sales,Vendas,Ativo,Membro,Atualizado
+Dante Ribeiro,Financeiro,Inativo,Membro,Quarentena
+Lucca Sales,Financeiro,Inativo,Visitante,Quarentena
+Heloísa Casa Grande,RH,Inativo,Owner,Atualizado
+Heitor Almeida,Vendas,Ativo,Membro,Atualizado
+Paulo Lopes,Financeiro,Ativo,Visitante,Quarentena
+Luana Mendonça,RH,Inativo,Visitante,Quarentena
+Murilo Cunha,RH,Inativo,Membro,Quarentena
+Sra. Ana Vargas,RH,Inativo,Visitante,Quarentena
+Luiz Henrique da Rocha,Vendas,Ativo,Visitante,Quarentena
+Valentina Gonçalves,Financeiro,Inativo,Visitante,Atualizado
+Maria Luísa Moraes,TI,Inativo,Membro,Quarentena
+Hellena Rios,TI,Inativo,Membro,Atualizado
+Dra. Mirella Rios,Financeiro,Inativo,Visitante,Quarentena
+Heitor Pastor,Vendas,Ativo,Owner,Atualizado
+Mariane Garcia,Vendas,Inativo,Membro,Quarentena
+Juan Pinto,RH,Inativo,Visitante,Atualizado
+Dr. Gustavo Henrique Moraes,Financeiro,Ativo,Membro,Atualizado
+Vitor Gomes,TI,Ativo,Visitante,Atualizado
+Lorena Duarte,RH,Ativo,Visitante,Atualizado
+Samuel Silveira,Operações,Inativo,Visitante,Atualizado
+Liam Gomes,RH,Inativo,Membro,Quarentena
+Dr. Vitor Hugo Araújo,Operações,Ativo,Owner,Atualizado
+Dra. Lavínia Alves,TI,Ativo,Owner,Atualizado
+Mariane Fonseca,RH,Ativo,Membro,Quarentena
+Sr. Emanuel Moura,Marketing,Ativo,Visitante,Atualizado
+Sr. Diego Macedo,TI,Ativo,Membro,Atualizado
+Arthur Fogaça,Operações,Inativo,Visitante,Quarentena
+Henry Caldeira,RH,Ativo,Membro,Quarentena
+Bryan Souza,Marketing,Ativo,Membro,Atualizado
+Alexia Novaes,Operações,Ativo,Owner,Atualizado
+Henrique Pinto,Financeiro,Ativo,Membro,Quarentena
+Henry Aragão,TI,Ativo,Membro,Atualizado
+Srta. Clara Gonçalves,TI,Inativo,Membro,Atualizado
+Fernando Brito,Financeiro,Ativo,Visitante,Atualizado
+Luísa Fogaça,RH,Inativo,Visitante,Atualizado
+Eloá Peixoto,TI,Ativo,Owner,Atualizado
+Allana Costa,Vendas,Inativo,Visitante,Atualizado
+Raul Fogaça,Marketing,Inativo,Membro,Atualizado
+Vitor Gabriel Silva,Financeiro,Ativo,Membro,Atualizado
+Heloísa Cavalcante,Operações,Inativo,Visitante,Atualizado
+Sr. Luiz Fernando da Cruz,Operações,Ativo,Membro,Atualizado
+Dr. Gael Henrique Rezende,Financeiro,Ativo,Membro,Atualizado
+Lorenzo Fonseca,TI,Inativo,Membro,Quarentena
+Ana Beatriz Teixeira,Vendas,Ativo,Visitante,Atualizado
+Maria Monteiro,TI,Ativo,Membro,Quarentena
+Joana Fogaça,RH,Inativo,Membro,Quarentena
+Miguel Barros,Financeiro,Ativo,Owner,Atualizado
+Anthony Gabriel Rodrigues,Operações,Ativo,Membro,Atualizado
+Maria Vitória Pimenta,Marketing,Ativo,Visitante,Quarentena
+Henry das Neves,Marketing,Ativo,Visitante,Atualizado
+Liz da Mota,Marketing,Inativo,Membro,Atualizado
+Isaac da Cruz,Operações,Ativo,Visitante,Atualizado
+Luigi Nascimento,Marketing,Ativo,Visitante,Quarentena
+Alícia Albuquerque,Vendas,Inativo,Visitante,Atualizado
+Elisa Cavalcanti,TI,Inativo,Visitante,Quarentena
+Nicolas Alves,RH,Inativo,Visitante,Quarentena
+Rhavi Macedo,Financeiro,Inativo,Visitante,Quarentena
+Stella das Neves,Financeiro,Ativo,Visitante,Atualizado
+Mirella Ribeiro,Vendas,Inativo,Membro,Atualizado
+Yan Pires,Financeiro,Inativo,Visitante,Quarentena
+Brayan Camargo,Financeiro,Ativo,Membro,Quarentena
+Sr. Fernando da Cunha,Operações,Inativo,Membro,Quarentena
+Lorenzo Moraes,Marketing,Ativo,Owner,Quarentena
+Sr. João Vitor Santos,Marketing,Ativo,Owner,Atualizado
+Dr. Calebe das Neves,TI,Ativo,Visitante,Quarentena
+Pietro Cirino,TI,Inativo,Membro,Atualizado
+Cecília Cirino,Operações,Inativo,Visitante,Quarentena
+Daniel Novais,Vendas,Ativo,Membro,Atualizado
+Joaquim Aragão,Vendas,Inativo,Visitante,Quarentena
+Luiz Felipe Porto,Vendas,Ativo,Visitante,Quarentena
+Guilherme Rocha,TI,Inativo,Membro,Atualizado
+Luna Rios,Marketing,Ativo,Visitante,Atualizado
+Dr. Pedro Miguel Dias,Operações,Ativo,Owner,Atualizado
+Sra. Luna Brito,TI,Inativo,Owner,Quarentena
+Murilo Garcia,Operações,Ativo,Owner,Atualizado
+João Miguel Costa,TI,Ativo,Owner,Quarentena
+Daniel Teixeira,Operações,Ativo,Owner,Atualizado
+Daniela Cavalcante,Operações,Ativo,Owner,Atualizado
+Pedro Lucas das Neves,Marketing,Ativo,Owner,Atualizado
+Isabel Gomes,TI,Inativo,Owner,Quarentena
+João Vitor Sampaio,Vendas,Inativo,Membro,Quarentena
+Joaquim Cirino,Financeiro,Inativo,Visitante,Quarentena
+Sr. Bernardo Moreira,TI,Inativo,Membro,Atualizado
+Julia Andrade,Vendas,Ativo,Visitante,Quarentena
+Léo Porto,TI,Inativo,Membro,Quarentena
+Luara Cavalcante,Vendas,Ativo,Owner,Atualizado
+Paulo Alves,Operações,Inativo,Membro,Atualizado
+Giovanna Mendonça,RH,Inativo,Membro,Quarentena
+Cecilia Borges,Vendas,Inativo,Visitante,Atualizado
+Nicole Teixeira,Financeiro,Ativo,Owner,Quarentena
+Luiz Otávio Sá,TI,Inativo,Visitante,Atualizado
+Maria Nogueira,Operações,Ativo,Visitante,Quarentena
+Giovanna Sales,Vendas,Inativo,Owner,Quarentena
+Maria Isis Marques,Vendas,Ativo,Membro,Quarentena
+Eloah Pinto,Marketing,Inativo,Visitante,Atualizado
+Yasmin Moura,Financeiro,Inativo,Visitante,Atualizado
+Renan Novaes,RH,Ativo,Membro,Quarentena
+Théo Cavalcanti,Vendas,Inativo,Visitante,Quarentena
+Nina Azevedo,Vendas,Inativo,Membro,Quarentena
+Leandro Gomes,TI,Inativo,Visitante,Quarentena
+André Castro,TI,Inativo,Visitante,Atualizado
+Gabrielly Vieira,Marketing,Inativo,Visitante,Quarentena
+Dr. Lucas Dias,RH,Ativo,Visitante,Atualizado
+Leonardo da Costa,Marketing,Inativo,Membro,Atualizado
+Ryan Barros,Operações,Inativo,Visitante,Quarentena
+Vinícius Costela,RH,Ativo,Owner,Quarentena
+Mirella Brito,Marketing,Inativo,Membro,Atualizado
+Benjamin da Rocha,Marketing,Inativo,Visitante,Atualizado
+Alícia Sampaio,Financeiro,Inativo,Membro,Quarentena
+Jade Nunes,Operações,Ativo,Visitante,Atualizado
+João Pedro Dias,Financeiro,Ativo,Visitante,Atualizado
+Sr. Matheus Teixeira,RH,Ativo,Visitante,Atualizado
+Ana Sophia Mendonça,TI,Ativo,Visitante,Quarentena
+Maria Luiza Nogueira,RH,Ativo,Visitante,Quarentena
+Maria Isis Gonçalves,Operações,Ativo,Visitante,Quarentena
+Maria Julia Albuquerque,Financeiro,Inativo,Visitante,Quarentena
+Dra. Daniela Carvalho,Financeiro,Inativo,Membro,Quarentena
+Eduarda Ferreira,Operações,Ativo,Visitante,Quarentena
+Igor da Cruz,Operações,Inativo,Membro,Atualizado
+Pedro Henrique Duarte,Financeiro,Ativo,Membro,Quarentena
+Davi Lucca Moreira,Marketing,Inativo,Visitante,Atualizado
+José Costela,Financeiro,Ativo,Membro,Quarentena
+Davi Lucas da Luz,TI,Inativo,Membro,Atualizado
+Yago Nogueira,Vendas,Inativo,Membro,Quarentena
+Evelyn Borges,Financeiro,Inativo,Visitante,Atualizado
+Fernando Moreira,Vendas,Ativo,Owner,Quarentena
+Lara Nunes,Marketing,Inativo,Visitante,Quarentena
+Raul Macedo,TI,Ativo,Membro,Atualizado
+Elisa Aparecida,Marketing,Ativo,Owner,Atualizado
+Isabelly Ferreira,Financeiro,Ativo,Membro,Atualizado
+Arthur Martins,Financeiro,Ativo,Membro,Quarentena
+Caleb Aparecida,TI,Ativo,Owner,Atualizado
+Letícia Porto,Financeiro,Inativo,Visitante,Quarentena
+Maria Helena Novaes,RH,Inativo,Membro,Atualizado
+Sabrina Rodrigues,Financeiro,Inativo,Membro,Quarentena
+João Gabriel Barbosa,Marketing,Inativo,Visitante,Atualizado
+Carlos Eduardo Borges,Operações,Inativo,Visitante,Atualizado
+Samuel Borges,Marketing,Ativo,Owner,Quarentena
+Zoe Sá,Vendas,Ativo,Owner,Atualizado
+Maria Eduarda Aragão,Marketing,Inativo,Visitante,Quarentena
+Maitê Almeida,Operações,Ativo,Visitante,Quarentena
+Eloá Fonseca,Financeiro,Ativo,Membro,Atualizado
+Srta. Isabela Novaes,Vendas,Ativo,Membro,Quarentena
+Diego Castro,Operações,Inativo,Visitante,Atualizado
+João Guerra,Vendas,Inativo,Visitante,Atualizado
+Ana Clara Gomes,Marketing,Ativo,Membro,Atualizado
+Vitor Gabriel Mendonça,RH,Inativo,Visitante,Quarentena
+Lucas Aparecida,Marketing,Inativo,Membro,Quarentena
+Sr. Pedro Lucas Rezende,Vendas,Ativo,Owner,Atualizado
+Zoe Moura,Operações,Ativo,Membro,Atualizado
+Julia Fernandes,TI,Inativo,Membro,Atualizado
+Rhavi Guerra,RH,Ativo,Visitante,Atualizado
+Bryan Sampaio,TI,Inativo,Visitante,Quarentena
+Cauã Martins,Operações,Ativo,Visitante,Atualizado
+Enrico Oliveira,Financeiro,Inativo,Visitante,Atualizado
+Yasmin Guerra,Operações,Ativo,Owner,Atualizado
+Dra. Caroline Monteiro,Vendas,Ativo,Visitante,Quarentena
+Diogo Pereira,Vendas,Ativo,Visitante,Atualizado
+Maysa Câmara,Vendas,Inativo,Membro,Quarentena
+Isabela Sampaio,Vendas,Inativo,Visitante,Atualizado
+Yan Fernandes,TI,Inativo,Membro,Atualizado
+Bernardo Barros,Vendas,Ativo,Visitante,Atualizado
+Gabriel Rocha,Marketing,Inativo,Visitante,Atualizado
+Otto Azevedo,TI,Inativo,Membro,Atualizado
+Davi Lucca Macedo,Financeiro,Ativo,Visitante,Atualizado
+Benjamin Cirino,Marketing,Ativo,Membro,Atualizado
+Beatriz Viana,Marketing,Inativo,Membro,Quarentena
+Levi Moreira,RH,Inativo,Membro,Atualizado
+Felipe Jesus,Financeiro,Ativo,Owner,Quarentena
+Diogo da Rosa,Vendas,Inativo,Visitante,Atualizado
+Henry Sampaio,RH,Ativo,Visitante,Atualizado
+Dr. Cauã Fernandes,Operações,Inativo,Membro,Quarentena
+Josué Rodrigues,Operações,Inativo,Membro,Atualizado
+Antonella Novaes,Operações,Ativo,Visitante,Atualizado
+Lívia Barbosa,TI,Ativo,Membro,Quarentena
+Henrique Garcia,Operações,Ativo,Owner,Quarentena
+Heloisa Vargas,Operações,Ativo,Owner,Atualizado
+Letícia Cavalcanti,Vendas,Inativo,Membro,Quarentena
+Isaque Peixoto,Operações,Inativo,Visitante,Quarentena
+Davi Lucca Ferreira,Vendas,Inativo,Membro,Atualizado
+Amanda Moura,Operações,Ativo,Owner,Atualizado
+João Vitor Novaes,TI,Inativo,Membro,Atualizado
+Miguel Cavalcanti,Vendas,Inativo,Membro,Atualizado
+Elisa Souza,TI,Ativo,Membro,Atualizado
+Luna Nunes,Operações,Ativo,Membro,Quarentena
+Ian Mendonça,Operações,Inativo,Visitante,Quarentena
+Enrico Porto,Vendas,Inativo,Visitante,Quarentena
+Ana Clara da Mata,Vendas,Ativo,Membro,Quarentena
+Manuella Câmara,RH,Ativo,Membro,Atualizado
+Lucas Rios,Vendas,Ativo,Owner,Atualizado
+Apollo Pimenta,Operações,Inativo,Visitante,Quarentena
+Srta. Maria Eduarda Silveira,RH,Ativo,Visitante,Atualizado
+Maria Julia Vasconcelos,Financeiro,Inativo,Membro,Quarentena
+Srta. Milena Lopes,Financeiro,Ativo,Owner,Atualizado
+Carlos Eduardo Machado,Marketing,Ativo,Visitante,Atualizado
+Benício Albuquerque,Marketing,Inativo,Visitante,Quarentena
+Henry Gabriel Fernandes,Marketing,Inativo,Visitante,Atualizado
+João Guilherme Dias,Vendas,Ativo,Membro,Atualizado
+Danilo Araújo,TI,Ativo,Membro,Atualizado
+Enrico Sousa,Financeiro,Ativo,Membro,Quarentena
+Dra. Emanuelly Castro,Financeiro,Inativo,Visitante,Atualizado
+Isabela Caldeira,RH,Inativo,Visitante,Atualizado
+Agatha Novaes,Marketing,Inativo,Visitante,Quarentena
+Srta. Gabriela das Neves,TI,Ativo,Owner,Quarentena
+Luísa Lima,RH,Ativo,Membro,Quarentena
+Samuel Rocha,RH,Inativo,Visitante,Quarentena
+Rafael Jesus,Vendas,Ativo,Owner,Quarentena
+Hellena Ferreira,Vendas,Ativo,Visitante,Quarentena
+Ryan Rezende,RH,Inativo,Visitante,Atualizado
+Laís Cirino,Financeiro,Ativo,Owner,Atualizado
+Davi Lucca Gonçalves,Vendas,Ativo,Owner,Atualizado
+Dr. Valentim Mendes,Operações,Inativo,Membro,Quarentena
+Sr. Pedro Lucas Aparecida,Financeiro,Ativo,Visitante,Quarentena
+Juliana Montenegro,TI,Ativo,Visitante,Atualizado
+Srta. Sophie da Cunha,Operações,Ativo,Visitante,Atualizado
+Matteo Novaes,Operações,Ativo,Visitante,Atualizado
+Sra. Manuella Borges,Financeiro,Inativo,Visitante,Quarentena
+José Pedro Sá,Marketing,Ativo,Owner,Quarentena
+Arthur Miguel Cassiano,RH,Inativo,Membro,Atualizado
+Dante Porto,Marketing,Inativo,Visitante,Atualizado
+Dr. Henrique Macedo,Financeiro,Ativo,Owner,Atualizado
+Isaac Freitas,Operações,Inativo,Visitante,Quarentena
+Julia Ferreira,Operações,Ativo,Visitante,Quarentena
+Luiz Otávio Campos,RH,Ativo,Membro,Quarentena
+Sr. Gustavo Henrique da Mota,Marketing,Inativo,Visitante,Atualizado
+Raul Sousa,Financeiro,Inativo,Visitante,Quarentena
+Matheus Teixeira,Vendas,Inativo,Visitante,Atualizado
+Maria Cavalcante,Financeiro,Inativo,Membro,Atualizado
+Mariane Lima,Marketing,Inativo,Visitante,Quarentena
+Davi Lucas Cunha,TI,Ativo,Owner,Atualizado
+José Pedro Guerra,Financeiro,Inativo,Visitante,Quarentena
+Augusto Macedo,TI,Inativo,Visitante,Atualizado
+Ana Beatriz Guerra,Vendas,Inativo,Membro,Quarentena
+Isabela Jesus,Financeiro,Inativo,Membro,Atualizado
+Srta. Amanda Lopes,TI,Ativo,Membro,Quarentena
+Sophia Rezende,TI,Ativo,Membro,Quarentena
+Alexandre Duarte,TI,Inativo,Visitante,Atualizado
+Dr. Vicente Duarte,Financeiro,Ativo,Owner,Atualizado
+Mateus Sá,TI,Inativo,Visitante,Atualizado
+Lorena Pacheco,RH,Inativo,Visitante,Quarentena
+Davi Melo,Operações,Inativo,Visitante,Quarentena
+José Miguel Cardoso,TI,Inativo,Membro,Quarentena
+João Miguel Andrade,Financeiro,Inativo,Membro,Atualizado
+Dante Correia,RH,Inativo,Visitante,Quarentena
+Luigi Martins,Financeiro,Inativo,Membro,Quarentena
+Enrico Pires,RH,Inativo,Visitante,Quarentena
+Luiz Fernando Ribeiro,Financeiro,Inativo,Membro,Atualizado
+Théo Câmara,Operações,Inativo,Membro,Quarentena
+Lucca Sampaio,Marketing,Inativo,Visitante,Atualizado
+Sra. Amanda Nascimento,RH,Ativo,Visitante,Quarentena
+Davi Luiz Vargas,TI,Ativo,Visitante,Atualizado
+Maria Vitória Aparecida,Operações,Ativo,Visitante,Quarentena
+Sr. Thiago Gomes,RH,Inativo,Visitante,Quarentena
+Natália Pinto,Operações,Ativo,Membro,Atualizado
+Henrique da Paz,RH,Inativo,Membro,Atualizado
+João Guilherme Rezende,RH,Ativo,Visitante,Atualizado
+Raul Cavalcanti,Financeiro,Ativo,Visitante,Quarentena
+Sr. Brayan da Luz,TI,Ativo,Membro,Atualizado
+Calebe Aparecida,RH,Ativo,Membro,Quarentena
+Milena Moreira,RH,Inativo,Membro,Quarentena
+Emanuel Pires,RH,Ativo,Visitante,Quarentena
+Luara Mendes,Marketing,Ativo,Membro,Quarentena
+Mariah Nogueira,TI,Ativo,Membro,Quarentena
+Alexia Sales,Marketing,Ativo,Owner,Atualizado
+Ana Laura Pastor,Operações,Ativo,Membro,Quarentena
+João Gabriel Novais,RH,Ativo,Owner,Atualizado
+Bryan Viana,RH,Ativo,Membro,Quarentena
+Mariane Campos,Vendas,Ativo,Visitante,Quarentena
+Ana Liz Pimenta,Operações,Ativo,Owner,Quarentena
+Carlos Eduardo Campos,RH,Ativo,Owner,Quarentena
+Dra. Evelyn Correia,Operações,Inativo,Membro,Quarentena
+Maria Cecília Dias,Financeiro,Ativo,Membro,Atualizado
+José Miguel Sales,Vendas,Inativo,Visitante,Quarentena
+Sarah Sá,Financeiro,Inativo,Membro,Quarentena
+Carlos Eduardo Cavalcante,Financeiro,Ativo,Visitante,Atualizado
+Gael Henrique Ribeiro,Vendas,Ativo,Owner,Atualizado
+Sr. Juan Brito,TI,Inativo,Visitante,Atualizado
+Sr. Thiago Cardoso,TI,Inativo,Membro,Atualizado
+José Miguel Câmara,Operações,Ativo,Membro,Atualizado
+Sr. Vitor Rezende,Financeiro,Inativo,Membro,Quarentena
+Brenda Novaes,RH,Ativo,Visitante,Atualizado
+Rebeca Gomes,Financeiro,Inativo,Membro,Quarentena
+Sophie Montenegro,Operações,Inativo,Membro,Quarentena
+Dr. Rafael Cardoso,Operações,Inativo,Visitante,Atualizado
+Sra. Laura Peixoto,RH,Ativo,Membro,Atualizado
+João Miguel Campos,RH,Ativo,Membro,Quarentena
+Brayan Pereira,Marketing,Ativo,Membro,Quarentena
+Asafe Farias,Financeiro,Inativo,Membro,Atualizado
+Melissa Moreira,Marketing,Inativo,Owner,Atualizado
+Camila Vieira,RH,Ativo,Membro,Atualizado
+Dr. Caleb Peixoto,RH,Ativo,Owner,Quarentena
+Eloá Cavalcanti,Marketing,Inativo,Membro,Quarentena
+Dr. Rhavi da Costa,Vendas,Inativo,Visitante,Atualizado
+Maria Vitória Ferreira,TI,Ativo,Owner,Atualizado
+Guilherme Pires,RH,Inativo,Membro,Atualizado
+Helena Pacheco,Vendas,Ativo,Membro,Quarentena
+Melina da Cruz,Marketing,Inativo,Visitante,Quarentena
+Gustavo Siqueira,Operações,Inativo,Visitante,Atualizado
+Liz Almeida,TI,Ativo,Membro,Atualizado
+Thomas Gomes,TI,Inativo,Visitante,Quarentena
+Maria Eduarda Silveira,RH,Ativo,Membro,Quarentena
+Lorenzo Cassiano,Financeiro,Ativo,Owner,Atualizado
+Srta. Melissa Freitas,Vendas,Ativo,Membro,Atualizado
+Maria Pastor,Operações,Inativo,Visitante,Atualizado
+Maria Sophia Campos,Operações,Inativo,Membro,Quarentena
+Maria Helena Gomes,Operações,Inativo,Owner,Atualizado
+Sr. Nathan Aparecida,TI,Ativo,Membro,Atualizado
+João Miguel Machado,Operações,Ativo,Membro,Atualizado
+Ana Cecília da Luz,Operações,Inativo,Membro,Atualizado
+Eduarda Casa Grande,TI,Ativo,Owner,Atualizado
+Srta. Maysa da Costa,Financeiro,Ativo,Visitante,Atualizado
+Sra. Gabrielly Rios,Marketing,Ativo,Owner,Quarentena
+Melina Moraes,TI,Inativo,Membro,Atualizado
+Sr. Davi Lucas da Paz,RH,Ativo,Owner,Atualizado
+Breno Fonseca,Vendas,Inativo,Membro,Quarentena
+Enrico Gomes,Operações,Inativo,Membro,Atualizado
+Dr. Valentim Aragão,RH,Inativo,Membro,Quarentena
+Heloísa Aragão,TI,Inativo,Membro,Quarentena
+Ravi Melo,Vendas,Ativo,Membro,Quarentena
+Maria Julia Pacheco,Operações,Ativo,Owner,Quarentena
+Mariana Câmara,Operações,Inativo,Membro,Atualizado
+Maria Clara Cavalcante,TI,Inativo,Membro,Atualizado
+Rafaela Correia,Vendas,Inativo,Membro,Quarentena
+Laura Barros,TI,Ativo,Membro,Quarentena
+Vicente Caldeira,Vendas,Ativo,Membro,Atualizado
+Gustavo Henrique Pimenta,TI,Ativo,Owner,Quarentena
+Rodrigo Santos,Operações,Ativo,Visitante,Atualizado
+Sr. Pedro Miguel Cavalcante,TI,Inativo,Membro,Atualizado
+Sra. Olivia Caldeira,RH,Inativo,Membro,Quarentena
