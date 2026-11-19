@@ -16,3 +16,9 @@ Projeto de BI e Governança de TI - Análise de gestão de identidades e acessos
 * **Análise Demográfica e Organizacional:** Gráfico de barras horizontais apresentando a distribuição volumétrica de colaboradores por departamento.
 * **Monitoramento do Ciclo de Vida:** Gráfico de rosca segmentando o status das contas corporativas.
 * **Painel de Auditoria de Acessos (SharePoint Owners):** Tabela interativa dedicada à listagem de administradores de coleções de sites, permitindo a verificação rápida de privilégios elevados.
+
+## Entrega Final: Matriz de Risco, Alertas e Documentação Arquitetural (Concluído)
+- **Score e Nível de Risco de Governança:** Cruzamento de status de conta, privilégios no SharePoint e saúde de endpoint para calcular a pontuação de risco e classificar os registros por severidade.
+- **Matriz de Risco e Alertas de Conformidade:** Visualizações analíticas e alertas para identificar departamentos e usuários com maior exposição a falhas de conformidade e privilégios excessivos.
+- **Diagrama de Arquitetura:** Representação visual do fluxo ponta a ponta, da geração de dados sintéticos e limpeza/modelagem em Python até o armazenamento no PostgreSQL e a visualização no Power BI.
+- **Diagrama Entidade-Relacionamento (MER):** Mapeamento da estrutura relacional do banco com chaves primárias (`PK`), chaves estrangeiras (`FK`) e cardinalidades entre a tabela fato e as tabelas dimensão.
