@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="pipeline" name="Pipeline de Dados">
+    <mxGraphModel dx="1443" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=20;" value="&lt;b&gt;Arquitetura do Pipeline de Dados - Governança de Identidades&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="700" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gen" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="&lt;b&gt;1. Geração de Dados Sintéticos&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Courier New&quot;&gt;governance_pipeline.py&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="csv" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;" value="&lt;b&gt;CSV&lt;/b&gt;&lt;br&gt;dados brutos" vertex="1">
+          <mxGeometry height="90" width="120" x="300" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="clean" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" value="&lt;b&gt;2. Limpeza e Modelagem&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Courier New&quot;&gt;governance_pipeline_ac2.py&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="220" x="480" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pg" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;startSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3. PostgreSQL" vertex="1">
+          <mxGeometry height="440" width="320" x="780" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pg_dims" parent="pg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="&lt;b&gt;Tabelas Dimensionais&lt;/b&gt;&lt;br&gt;dim_departments&lt;br&gt;dim_account_statuses&lt;br&gt;dim_sharepoint_access&lt;br&gt;dim_antivirus_statuses" vertex="1">
+          <mxGeometry height="120" width="280" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pg_fact" parent="pg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;Tabela Fato&lt;/b&gt;&lt;br&gt;fact_user_security_audits" vertex="1">
+          <mxGeometry height="70" width="280" x="20" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="pg_views" parent="pg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;Views&lt;/b&gt;&lt;br&gt;camada analítica para consumo no Power BI" vertex="1">
+          <mxGeometry height="80" width="280" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="e_dim_fact" edge="1" parent="pg" source="pg_dims" style="endArrow=classic;html=1;rounded=0;" target="pg_fact" value="FK">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fact_views" edge="1" parent="pg" source="pg_fact" style="endArrow=classic;html=1;rounded=0;" target="pg_views">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bi" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;startSize=30;fillColor=#fff2cc;strokeColor=#d6b656;" value="4. Power BI" vertex="1">
+          <mxGeometry height="240" width="260" x="1180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bi_ident" parent="bi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;" value="&lt;b&gt;Dashboard de Identidades&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bi_risk" parent="bi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;" value="&lt;b&gt;Matriz de Risco&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="gen" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" target="csv" value="gera">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="csv" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" target="clean" value="lê">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="clean" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" target="pg" value="carga">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="pg" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" target="bi" value="consulta">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
